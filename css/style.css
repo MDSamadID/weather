@@ -36,7 +36,7 @@ nav ul li a {
   font-size: 18px;
 }
 .active {
-  background-color: var(--white-color);
+  background-color: var(--black-color);
   color: var(--font-color-main);
   border-radius: 100px;
   padding: 8px 15px;
